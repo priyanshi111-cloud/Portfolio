@@ -1,0 +1,107 @@
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Priyanshi Pandey | HR Portfolio</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="hero">
+    <img src="assets/profile.jpg" alt="Priyanshi Pandey" class="profile-pic" />
+    <h1>Priyanshi Pandey</h1>
+    <p>Human Resources Professional | Strategic HR | Talent Acquisition</p>
+    <a href="assets/Black_and_White_Clean_Professional_Resume.pdf" class="btn" download>Download Resume</a>
+  </header>
+
+  <section class="about">
+    <h2>About Me</h2>
+    <p>I am a growth-driven HR professional with hands-on experience in strategic hiring, onboarding, employee engagement, HR analytics, and policy development. Certified in Strategic HR Management from IIM Ahmedabad, I’ve led people-centric initiatives at organizations like House of Travellers, BCG, and GE Aerospace.</p>
+  </section>
+
+  <section class="experience">
+    <h2>Work Experience</h2>
+    <div class="job">
+      <h3>Human Resources Executive – House of Travellers</h3>
+      <p><strong>Sep 2024 – Apr 2025 | On-site</strong></p>
+      <ul>
+        <li>Managed end-to-end HR operations: hiring, onboarding, records, payroll, and exits.</li>
+        <li>Introduced onboarding checklists improving 90-day retention.</li>
+        <li>Handled employee engagement, HRMS, compliance, and closed 20+ roles independently.</li>
+      </ul>
+    </div>
+    <div class="job">
+      <h3>Human Resources Recruiter – BookMyStudio</h3>
+      <p><strong>Jun 2024 – Aug 2024 | Remote</strong></p>
+      <ul>
+        <li>Led recruitment efforts including sourcing, screening, onboarding.</li>
+        <li>Used LinkedIn Recruiter, ATS, and improved hiring funnels.</li>
+      </ul>
+    </div>
+    <div class="job">
+      <h3>Strategy Consultant (Intern) – BCG</h3>
+      <p><strong>Aug 2024 | Remote</strong></p>
+      <ul>
+        <li>Worked on business growth strategy and digital optimization plans.</li>
+        <li>Contributed to structured project planning and consulting exercises.</li>
+      </ul>
+    </div>
+    <div class="job">
+      <h3>HR Executive Intern – Undhiyu Creation</h3>
+      <p><strong>Aug 2024 – Sep 2024 | Remote</strong></p>
+      <ul>
+        <li>Supported hiring, policy development, onboarding and engagement.</li>
+      </ul>
+    </div>
+    <div class="job">
+      <h3>HR Intern (Simulation) – GE Aerospace</h3>
+      <p><strong>Jul 2024 | Remote</strong></p>
+      <ul>
+        <li>Used Lean tools to improve workflows; analyzed compensation and suggested pay adjustments.</li>
+      </ul>
+    </div>
+    <div class="job">
+      <h3>HR Intern – Talentship Global Advisory Forum</h3>
+      <p><strong>Apr 2024 – Jul 2024 | Remote</strong></p>
+      <ul>
+        <li>Handled job posting, screening, onboarding, internal HR communications.</li>
+      </ul>
+    </div>
+  </section>
+
+  <section class="volunteer">
+    <h2>Volunteer Work</h2>
+    <div class="job">
+      <h3>Volunteer – Swayam</h3>
+      <p><strong>Feb 2022 – Jul 2022 | On-site</strong></p>
+      <ul>
+        <li>Supported charity work, team leadership, and awareness campaigns.</li>
+      </ul>
+    </div>
+  </section>
+
+  <section class="skills">
+    <h2>Skills</h2>
+    <ul class="skills-list">
+      <li>Talent Acquisition</li>
+      <li>Onboarding & HRIS</li>
+      <li>Employee Engagement</li>
+      <li>HR Analytics</li>
+      <li>ATS & Excel</li>
+      <li>Conflict Resolution</li>
+      <li>Lean HR Methods</li>
+      <li>Policy Development</li>
+      <li>Public Speaking</li>
+    </ul>
+  </section>
+
+  <section class="contact">
+    <h2>Contact</h2>
+    <p>Email: <a href="mailto:dap406879@gmail.com">dap406879@gmail.com</a></p>
+    <p>LinkedIn: <a href="https://linkedin.com/in/priyanshi-pandey-19072029a" target="_blank">/priyanshi-pandey-19072029a</a></p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Priyanshi Pandey | All Rights Reserved</p>
+  </footer>
+</body>
+</html>
